@@ -41,7 +41,7 @@ I aim to leverage my hands-on experience and academic knowledge in computer secu
 </div>
 
 ## Projects
-### Elastic Stack SIEM Configuration and Management
+### [Elastic Stack SIEM Configuration and Management](https://github.com/CyberKen1/Elastic-Stack-SIEM-Configuration-and-Management)
 - **Overview**: Successfully set up and configured an Elastic Stack SIEM in a home lab environment to monitor and analyze security events.
 - **Role**: Deployed a Kali Linux VM, configured Elastic agents for log collection, and forwarded data to the SIEM for monitoring.
 - **Technologies Used**: Elastic Stack SIEM, Kali Linux.
