@@ -46,7 +46,7 @@ I aim to leverage my hands-on experience and academic knowledge in computer secu
 - **Role**: Deployed a Kali Linux VM, configured Elastic agents for log collection, and forwarded data to the SIEM for monitoring.
 - **Technologies Used**: Elastic Stack SIEM, Kali Linux.
 
-### Security Event Simulation and Analysis
+### [Security Event Simulation and Analysis](https://github.com/CyberKen1/Security-Event-Simulation-and-Analysis/tree/main)
 - **Overview**: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux.
 - **Role**: Conducted security event simulations and network data analysis to identify threats.
 - **Technologies Used**: Nmap, Kali Linux, Elastic SIEM.
